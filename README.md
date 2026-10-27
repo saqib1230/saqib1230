@@ -20,7 +20,8 @@ I'm a Karachi-based Full Stack Developer with more than a decade of experience a
 
 | Period | Role | Organization |
 |---|---|---|
-| 2023–Present | System Analytics & Web Developer | Sidat Hyder Morshed Associates |
+| 2025– Present | Web Developer | Airsial Pvt Ltd |
+| 2023–2025 | System Analytics & Web Developer | Sidat Hyder Morshed Associates |
 | 2022–2023 | Senior PHP Developer | Blaze Mind Solutions |
 | 2015–2022 | PHP Developer & IT Administrator | M. Anwar & Bros |
 | 2012–2015 | IT Administrator & Network Administrator | M. Anwar & Bros |
